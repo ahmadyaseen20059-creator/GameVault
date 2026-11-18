@@ -5,3 +5,22 @@ https://github.com/ahmadyaseen20059-creator/GameVault
 
 Deployed Front-End URL:
 https://gamevault-fxo0.onrender.com
+
+
+Team Members:
+
+1. Name: Ahmad Yaseen Abd-Alrahman
+   Student ID: 2338429
+   Assigned Responsibilities: Project setup, main page, and game display.
+
+2. Name: Abdelrahman Falah Al-Masadeh
+   Student ID: 2234766
+   Assigned Responsibilities: Login, Registration, and About pages.
+
+3. Name: Abdallah Mohamad Daghmin
+   Student ID: 2339042
+   Assigned Responsibilities: Search, sorting, styling, and application testing.
+
+
+Commit Hash:
+[ADD FINAL COMMIT HASH HERE]
