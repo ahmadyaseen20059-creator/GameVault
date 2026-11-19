@@ -11,7 +11,7 @@ function About() {
 
       <h2>Our Features</h2>
 
-      <ul>
+      <ul style={{ listStylePosition: "inside", padding: 0, textAlign: "center" }}>
         <li>View your personal game collection.</li>
         <li>Search games by name.</li>
         <li>Sort games by name, rating, and release year.</li>
@@ -19,8 +19,7 @@ function About() {
         <li>Track your game status.</li>
       </ul>
 
-      <h2>Our Team</h2>
-      <p>Developed by the GameVault project team.</p>
+      
     </div>
   );
 }
